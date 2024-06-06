@@ -19,7 +19,7 @@
     .
     <a href="https://drive.google.com/file/d/1k35T2plLICuuwJIJoQ_r9BUdfotTNSuZ/view?usp=drive_link">View Demo</a>
     .
-    <a href="https://github.com/Shivanaik11/PARKEASE/issues">Report Bug</a>
+    <a href="https://github.com/CheetahCodes21/Autonomous-Urban-Parking/issues">Issues</a>
   </p>
 </p>
 
