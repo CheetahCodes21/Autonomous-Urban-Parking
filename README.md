@@ -1,4 +1,4 @@
-# Autonomous Urban Parking
+# Autonomous Urban Parking - <i>PARKEASE</i>
 
 <br/>
 <p align="center">
@@ -6,13 +6,13 @@
     <img src="images/company_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">PARKEASE 🚙</h3>
+  <h3 align="center">PARKEASE</h3>
 
   <p align="center">
-    "Park with ease, pay with breeze - your hassle-free parking solution is here with PARKEASE!"
+    "Park with ease, pay within a breeze - your hassle-free parking solution is here with PARKEASE!"
     <br/>
     <br/>
-    <a href="https://github.com/CheetahCodes21/Autonomous-Urban-Parking-/blob/main/PARKEASE%20DOCUMENTATION/PARKEASE%20DOCUMENTATION.pdf"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CheetahCodes21/Autonomous-Urban-Parking-/blob/main/PARKEASE%20DOCUMENTATION/PARKEASE%20DOCUMENTATION.pdf"><strong>Project Documentation</strong></a>
     <br/>
     <br/>
     <a href="https://parkease.vercel.app">PARKEASE</a>
@@ -59,4 +59,4 @@ Introducing PARKEASE, the revolutionary concept designed to streamline parking w
    - The billing system calculates the parking fee based on the time parked, with a standard rate per hour.
 
 ## License
-Distributed under the MIT License. See [LICENSE](https://github.com/Shivanaik11/PARKEASE/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/CheetahCodes21/Autonomous-Urban-Parking-/blob/main/LICENSE.md) for more information.
